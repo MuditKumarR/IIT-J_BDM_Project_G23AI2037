@@ -21,8 +21,8 @@ As part of this project, we developed a **Team Win Prediction App**. The app lev
 
 You can access the app here: [Sports Analytics App](https://iit-j-bdm-project-g23ai2037.streamlit.app/).
 
-### Embedded App View:
-<iframe src="https://iit-j-bdm-project-g23ai2037.streamlit.app/" width="100%" height="600px" frameborder="0"></iframe>
+### App Screenshot :
+![Sports Analytics App Overview](./app-screenshot.png)
 
 ---
 
