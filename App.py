@@ -48,7 +48,8 @@ def load_model_and_encoders():
     return model, label_encoders
 
 # ---- STREAMLIT APP UI ----
-st.title("IIT- J BDM Final Project")
+st.title("IIT- J ")
+st.title("BDM Final Project")
 st.title("Sports Analytics- Match Outcome Predictor ⚽")
 
 st.subheader("Created By : Mudit , Anup , Anas")
