@@ -5,7 +5,7 @@
 - **Anup Shaw (G23AI2015)**
 - **Anas Khan (G23AI2119)**
 
-**Supervised By:** Dip Shankar Banerjee Sir
+**Supervised By:** **Dr. Dip Shankar Banerjee Sir**
 
 ---
 
