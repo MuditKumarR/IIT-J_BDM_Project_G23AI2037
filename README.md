@@ -19,10 +19,10 @@ Inspired by the "Moneyball" approach popularized by the Oakland Athletics, this 
 ## Team Win Prediction App
 As part of this project, we developed a **Team Win Prediction App**. The app leverages machine learning models to predict the winning probabilities of teams based on various features such as team performance, weather conditions, and other match-related data.
 
-You can access the app here: [Sports Analytics App](https://iit-j-capstone-project-group15-sports-analytics.streamlit.app/).
+You can access the app here: [Sports Analytics App](https://iit-j-bdm-project-g23ai2037.streamlit.app/).
 
 ### Embedded App View:
-<iframe src="https://iit-j-capstone-project-group15-sports-analytics.streamlit.app/" width="100%" height="600px" frameborder="0"></iframe>
+<iframe src="https://iit-j-bdm-project-g23ai2037.streamlit.app/" width="100%" height="600px" frameborder="0"></iframe>
 
 ---
 
