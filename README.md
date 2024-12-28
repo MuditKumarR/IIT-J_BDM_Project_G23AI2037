@@ -21,8 +21,7 @@ As part of this project, we developed a **Team Win Prediction App**. The app lev
 
 You can access the app here: [Sports Analytics App](https://iit-j-bdm-project-g23ai2037.streamlit.app/).
 
-### App Screenshot :
-![Sports Analytics App Overview](./app-screenshot.png)
+
 
 ---
 
@@ -139,6 +138,9 @@ The sports analytics app is a comprehensive tool that allows users to explore ma
 - Team-level and player-level performance analysis.
 - Insights on external factors like attendance and weather.
 - Predictive analytics to forecast outcomes and trends.
+
+  ### App Screenshot :
+![Sports Analytics App Overview](./app-screenshot.png)
 
 ---
 
