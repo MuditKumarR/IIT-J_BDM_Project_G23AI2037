@@ -99,7 +99,7 @@ The project presentation covered the following key areas:
 ---
 
 ## Project Management
-The project was managed collaboratively by a team of five members under the guidance of our supervisor. A structured approach was taken for:
+The project was managed collaboratively by a team of 3 members under the guidance of our supervisor. A structured approach was taken for:
 - **Requirement gathering:** Understanding data needs and project goals.
 - **Task allocation:** Efficient distribution of responsibilities.
 - **Milestone tracking:** Ensuring timely completion of tasks.
